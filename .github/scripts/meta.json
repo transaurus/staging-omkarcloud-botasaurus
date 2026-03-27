@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/omkarcloud/botasaurus",
+  "branch": "main",
+  "docusaurusRoot": "docs",
+  "configFile": "docs/docusaurus.config.js",
+  "translateCommand": "npx docusaurus write-translations",
+  "buildCommand": "npm run build",
+  "buildOutput": "build",
+  "packageManager": "npm"
+}
